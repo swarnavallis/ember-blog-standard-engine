@@ -7,5 +7,8 @@
   "dependencies": {
     "ember-cli-htmlbars": "*",
     "ember-cli-babel": "*"
+  },
+    "ember-addon": {
+    "configPath": "tests/dummy/config"
   }
 }
